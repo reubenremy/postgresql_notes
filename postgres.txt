@@ -1,4 +1,8 @@
 
+Load SQL Files in CL:
+psql restaurant -f restaurant.sql
+
+
 COMMAND LINE POSTGRES UTILITIES:
 =========================================
 createuser: creates a user
