@@ -1,18 +1,34 @@
 
-Load SQL Files in CL:
+# POSTGRES NOTES
+### Load SQL Files in CL:
 psql restaurant -f restaurant.sql
 
 
 COMMAND LINE POSTGRES UTILITIES:
-=========================================
-createuser: creates a user
-createdb: creates a database
-dropuser: deletes a user
-dropdb: deletes a database
-postgres: executes the SQL server itself (we saw that one above when we checked our Postgres version!)
-pg_dump: dumps the contents of a single database to a file
-pg_dumpall: dumps all databases to a file
-psql: we recognize that one!
+================================
+### createuser: 
+creates a user
+
+### createdb: 
+creates a database
+
+### dropuser: 
+deletes a user
+
+### dropdb: 
+deletes a database
+
+### postgres: 
+executes the SQL server itself (we saw that one above when we checked our Postgres version!)
+
+### pg_dump: 
+dumps the contents of a single database to a file
+
+### pg_dumpall: 
+dumps all databases to a file
+
+### psql: 
+we recognize that one!
 
 *** NOTHING WILL HAPPEN WHEN YOU INPUT ***
 
